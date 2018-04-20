@@ -29,10 +29,10 @@ Add each team member as a collaborator, giving her/him full admin rights.
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
 - Download the .ipynb from this Repository (Notebook folder), `Hackathon - House Prediction.ipynb`
-- If you are added, add the data to the project. Go to "Assets" > "New Notebook"
-- use "Try the New Environment Feature", and other settings like in the picture.
+- If you are added, add the notebook to the project. Go to "Assets" > "New Notebook"
+- use "Default Anaconda Free (1 vCPU and 4 GB RAM)"
 
-![im](images/upload_notebook.png)
+![im](images/new_notebook_environment.png)
 
 ## 4, 5, 6... - All other members
 
