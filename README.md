@@ -7,7 +7,7 @@ Assign roles to each team member - and follow the instuctions.
 - Person sitting most to the North is the Project Manager.
 - From her/him, point remaining member clockwise, in same order as listed here.
 
-## Project Manager
+## 1 - Project Manager
 
 Create a project in DSX
 
@@ -17,7 +17,7 @@ Add each team member as a collaborator, giving her/him full admin rights.
 
 ![im](images/add_collaborator.png)
 
-## Data Uploader
+## 2 - Data Uploader
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
 - Download the Data from this Repository (Data folder), `amsterdam_data_v3.csv`
@@ -25,7 +25,7 @@ Add each team member as a collaborator, giving her/him full admin rights.
 
 ![im](images/load_data.png)
 
-## Notebook Uploader
+## 3 - Notebook Uploader
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
 - Download the .ipynb from this Repository (Notebook folder), `Hackathon - House Prediction.ipynb`
@@ -34,13 +34,13 @@ Add each team member as a collaborator, giving her/him full admin rights.
 
 ![im](images/upload_notebook.png)
 
-## All other members
+## 4, 5, 6... - All other members
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
 - Give coffee or tea to team members and class instructor
 - Take a look at the data, think of what model you would apply to predict price
 
-## Start creating a daffy Model!
+## Everybody - Start creating a daffy Model!
 
 Read the notebook instructions and try create the best performing model!
 The method of calculating the performance is outlined in the notebook.
