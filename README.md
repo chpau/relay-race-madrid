@@ -1,4 +1,4 @@
-# Relay-Data-Race with DSX
+# Relay-Data-Race with DSX, In Madrid - About Madrid!
 
 ![im](images/relay_race.jpg)
 
@@ -20,7 +20,7 @@ Add each team member as a collaborator, giving her/him full admin rights.
 ## 2 - Data Uploader
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
-- Download the Data from this Repository (Data folder), `amsterdam_data_v3.csv`
+- Download the Data from this Repository (Data folder), `madrid_houses_with_centre.csv`
 - If you are added, add the data to the project. Go to "Assets" and upload the data.
 
 ![im](images/load_data.png)
