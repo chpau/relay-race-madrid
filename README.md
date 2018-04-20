@@ -11,7 +11,7 @@ Assign roles to each team member - and follow the instuctions.
 
 Create a project in DSX
 
-![im](images/create_project.png)
+![im](images/new_project_dsx.png)
 
 Add each team member as a collaborator, giving her/him full admin rights.
 
