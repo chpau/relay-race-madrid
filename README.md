@@ -20,7 +20,7 @@ Add each team member as a collaborator, giving her/him full admin rights.
 ## 2 - Data Uploader
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
-- Download the Data from this Repository (Data folder), `madrid_houses_with_centre.csv`
+- Download the Data from this Repository (Data folder), `madrid_test.csv.csv` & `madrid_train.csv`
 - If you are added, add the data to the project. Go to "Assets" and upload the data.
 
 ![im](images/load_data.png)
@@ -28,7 +28,7 @@ Add each team member as a collaborator, giving her/him full admin rights.
 ## 3 - Notebook Uploader
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
-- Download the .ipynb from this Repository (Notebook folder), `Hackathon - House Prediction.ipynb`
+- Download the .ipynb from this Repository (Notebook folder), `Madrid Houses.ipynb`
 - If you are added, add the notebook to the project. Go to "Assets" > "New Notebook"
 - use "Default Anaconda Free (1 vCPU and 4 GB RAM)"
 
@@ -38,18 +38,17 @@ Add each team member as a collaborator, giving her/him full admin rights.
 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
 - Give coffee or tea to team members and class instructor
-- Take a look at the data, think of what model you would apply to predict price
+- Take a look at the data, think of what model you would apply to predict price. The data was collected from https://www.fotocasa.es/en/.
 
 ## Everybody - Start creating a daffy Model!
 
 Read the notebook instructions and try create the best performing model!
-The method of calculating the performance is outlined in the notebook.
+The method of calculating the performance is outlined in the notebook. For this the Test set is used. Play fair- dont train on the test set.
 
 ## General Hints & Tips
 
-- You can duplicate notebooks - members can try out strategies in parallel
+- You can duplicate notebooks - members can try out strategies in parallel (or create your own project with own environment).
 - Some models can be deployed in WML, and a webapplication can be easily created with them.
 Alonso from Madrid, has created this demo:
 http://ialonso.es/projects/dsxwml/
 - DSX Can connect to other data sources as well
-- DSX has a Local Version
