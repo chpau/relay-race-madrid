@@ -13,7 +13,7 @@ Create a project in DSX
 
 ![im](images/new_project_dsx.png)
 
-Add each team member as a collaborator, giving her/him full admin rights.
+Add each team member as a collaborator, giving her/him full admin rights. Go to **Collaborators** and **Add Collaborator**. You need the email address for each collaborator.
 
 ![im](images/add_collaborator.png)
 
