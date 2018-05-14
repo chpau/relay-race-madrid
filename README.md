@@ -9,7 +9,7 @@ Assign roles to each team member - and follow the instuctions.
 
 ## 1 - Project Manager
 
-Create a project in DSX
+Create a project in DSX (Data Science Project)
 
 ![im](images/new_project_dsx.png)
 
@@ -30,7 +30,7 @@ Add each team member as a collaborator, giving her/him full admin rights. Go to 
 - Tell the Project Manager your email, she/he needs this to add you to the page.
 - Download the .ipynb from this Repository (Notebook folder), `Madrid Houses.ipynb`
 - If you are added, add the notebook to the project. Go to "Assets" > "New Notebook"
-- use "Default Anaconda Free (1 vCPU and 4 GB RAM)"
+- use "Default Python 3.5 Free (1 vCPU and 4 GB RAM)"
 
 ![im](images/new_notebook_environment.png)
 
@@ -44,6 +44,11 @@ Add each team member as a collaborator, giving her/him full admin rights. Go to 
 
 Read the notebook instructions and try create the best performing model!
 The method of calculating the performance is outlined in the notebook. For this the Test set is used. Play fair- dont train on the test set.
+
+Rules of the Hackathon:
+
+1. Be fare with using Train & Test test.
+2. Each team member should be able to explain data tranformations & model. Each team member will be asked to explain differents parts. Make sure everybody understands what was created.
 
 ## General Hints & Tips
 
