@@ -1,4 +1,4 @@
-# Relay-Data-Race with DSX, In Madrid - About Madrid!
+# Relay-Data-Race with Watson Studio -  In Madrid - About Madrid!
 
 ![im](images/relay_race.jpg)
 
@@ -9,36 +9,36 @@ Assign roles to each team member - and follow the instuctions.
 
 ## 1 - Project Manager
 
-Create a project in DSX (Data Science Project)
+Create a project in DSX (-Data Science Project-)
 
 ![im](images/new_project_dsx.png)
 
-Add each team member as a collaborator, giving her/him full admin rights. Go to **Collaborators** and **Add Collaborator**. You need the email address for each collaborator.
+Add each team member as a collaborator, giving her/him full admin rights. Go to **Collaborators** and **Add Collaborator**. You need the email address for each collaborator. Collaborators can edit data, notebooks and more.
 
 ![im](images/add_collaborator.png)
 
 ## 2 - Data Uploader
 
-- Tell the Project Manager your email, she/he needs this to add you to the page.
+- Tell the Project Manager your email, she/he needs this to add you to the Project Page.
 - Download the Data from this Repository (Data folder), `madrid_test.csv.csv` & `madrid_train.csv`
-- If you are added, add the data to the project. Go to "Assets" and upload the data.
+- If you are added to the Project, add the data to the project. Go to "Assets" and upload the data.
 
 ![im](images/load_data.png)
 
 ## 3 - Notebook Uploader
 
-- Tell the Project Manager your email, she/he needs this to add you to the page.
+- Tell the Project Manager your email, she/he needs this to add you to the Project page.
 - Download the .ipynb from this Repository (Notebook folder), `Madrid Houses.ipynb`
-- If you are added, add the notebook to the project. Go to "Assets" > "New Notebook"
+- If you are added, add the notebook to the project. Go to "Assets" > "New Notebook" > "From File"
 - use "Default Python 3.5 Free (1 vCPU and 4 GB RAM)"
 
 ![im](images/new_notebook_environment.png)
 
 ## 4, 5, 6... - All other members
 
-- Tell the Project Manager your email, she/he needs this to add you to the page.
-- Give coffee or tea to team members and class instructor
+- Tell the Project Manager your email, she/he needs this to add you to the Project page.
 - Take a look at the data, think of what model you would apply to predict price. The data was collected from https://www.fotocasa.es/en/.
+- Feel free to create your own Project to try out a wacky idea.
 
 ## Everybody - Start creating a daffy Model!
 
