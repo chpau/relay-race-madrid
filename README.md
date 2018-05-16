@@ -57,3 +57,4 @@ Rules of the Hackathon:
 Alonso from Madrid, has created this demo:
 http://ialonso.es/projects/dsxwml/
 - DSX Can connect to other data sources as well
+- Day 1 there was a talk about basic data check - for this there is a python package- pandas profiling. See the result on the test set at http://htmlpreview.github.io/?https://raw.githubusercontent.com/willemhendriks/relay-race-madrid/master/pandasprofiling_example.htm .  This was created in Watson Studion, where the package can be installed.
